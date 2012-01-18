@@ -24,7 +24,7 @@ export LC_CTYPE=en_US.UTF-8
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git textmate ruby bundler brew command-no-found compleat gem osx pow rails3 rvm)
+plugins=(brew bundler cap extract gem git heroku osx pow powder rails rails3 rbenv ruby rvm texmate)
 
 source $ZSH/oh-my-zsh.sh
 
